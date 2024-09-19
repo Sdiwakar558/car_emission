@@ -1,0 +1,3 @@
+2024-09-17	17:01:17	Process started
+2024-09-17	17:01:17	till raw data file
+2024-09-17	17:01:17	{'encoding': 'ISO-8859-1', 'confidence': 0.73, 'language': ''} 
